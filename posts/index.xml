@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on This is cool thing!</title>
+    <link>https://zarkamcclung.github.io/posts/</link>
+    <description>Recent content in Posts on This is cool thing!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Oct 2018 18:32:09 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 12 Oct 2018 19:17:25 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zarkamcclung.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Secondpost</title>
+      <link>https://zarkamcclung.github.io/posts/secondpost/</link>
+      <pubDate>Fri, 12 Oct 2018 19:17:25 -0500</pubDate>
+      
+      <guid>https://zarkamcclung.github.io/posts/secondpost/</guid>
+      <description>This is amazing!  WoW CoW</description>
+    </item>
+    
+    <item>
       <title>First_post</title>
-      <link>http://example.org/posts/first_post/</link>
+      <link>https://zarkamcclung.github.io/posts/first_post/</link>
       <pubDate>Fri, 12 Oct 2018 18:32:09 -0500</pubDate>
       
-      <guid>http://example.org/posts/first_post/</guid>
-      <description>Looks at this!!!</description>
+      <guid>https://zarkamcclung.github.io/posts/first_post/</guid>
+      <description>Looks at this!!!
+ My name is Zarka! ;) :D  Hey this is a change  </description>
     </item>
     
   </channel>
